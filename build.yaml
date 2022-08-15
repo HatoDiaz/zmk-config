@@ -13,4 +13,7 @@
 #
 ---
 include:
-  - board: combi
+  - board: nrf52840_mdk_usb_dongle
+    shield: combi_dongle
+  - board: e73
+    shield: combi_board
